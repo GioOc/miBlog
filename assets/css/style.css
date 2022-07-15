@@ -4,7 +4,7 @@
 
 header h1 {
   text-align: center;
-  background: url(./img/jhinCamille.png);
+  background: url(/assets/img/jhinCamille.png);
   font-size: 4rem;
   color: rgb(238, 204, 204);
   padding: 15px;
@@ -39,7 +39,7 @@ article h2 {
 }
 
 .fondoPantalla {
-  background: url(./img/yasuo.jpg) no-repeat center center fixed;
+  background: url(/assets/img/yasuo.jpg) no-repeat center center fixed;
 }
 /* empieza la movida aqui */
 .combos-container {
